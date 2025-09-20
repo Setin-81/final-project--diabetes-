@@ -55,5 +55,4 @@ Libraries:
 
 pip install pandas numpy matplotlib openpyxl
 
-▶️ Run the Program
-python analysis.py
+▶️ Run the diabetes.py or diabetes1.ipynb
